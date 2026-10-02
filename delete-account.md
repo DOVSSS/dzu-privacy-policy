@@ -2,7 +2,7 @@
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <title>Удаление аккаунта — DZU</title>
+    Удаление аккаунта — DZU
 </head>
 <body>
     <h1>Удаление аккаунта DZU</h1>
